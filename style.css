@@ -1,0 +1,35 @@
+.headingdiv{
+width:100%;
+}
+
+#h1{
+float:left;
+}
+
+.button1{
+float: right;
+border:1px solid white;
+margin-top:20px;
+}
+
+.button2{
+    border:1px solid white;
+    }
+
+canvas{
+border:3px solid white;
+border-radius: 10px;
+margin-top:150px;
+}
+
+h4{
+margin:0;
+line-height:2;
+background-color:white;
+text-align:center;
+bottom:0px;
+}
+
+.modal-dialog{
+width:90%;
+}
